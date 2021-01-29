@@ -24,15 +24,7 @@ Hi I am Yunus Emre Karakuzu 👋
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<br />
-<br />
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemre-karakuzu&layout=compact)](https://github.com/mrtdmrmrt/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yemre-karakuzu)](https://github.com/mrtdmrmrt/github-readme-stats)
-<br />
-<br />
----
 <br />
 <br />
 
@@ -44,6 +36,4 @@ Hi I am Yunus Emre Karakuzu 👋
 
 ---
 ![](https://komarev.com/ghpvc/?username=Yemre-karakuzu&color=blue&label=Profile+Views)
-[![Twitter: MertdmrMert](https://img.shields.io/twitter/follow/MertdmrMert?style=social)](https://twitter.com/MertdmrMert)
-[![Linkedin: mertdemir](https://img.shields.io/badge/-mertdemir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mertdemir/)](https://www.linkedin.com/in/mert-demir-6784b4168/)
 [![GitHub Yemre-karakuzu](https://img.shields.io/github/followers/Yemre-karakuzu?label=follow&style=social)](https://github.com/mrtdmrmrt)
