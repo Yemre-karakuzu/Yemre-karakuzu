@@ -30,8 +30,8 @@ Hi I am Yunus Emre Karakuzu 👋
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtdmrmrt&layout=compact)](https://github.com/mrtdmrmrt/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mrtdmrmrt)](https://github.com/mrtdmrmrt/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yemre-karakuzu&layout=compact)](https://github.com/mrtdmrmrt/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Yemre-karakuzu)](https://github.com/mrtdmrmrt/github-readme-stats)
 <br />
 <br />
 
