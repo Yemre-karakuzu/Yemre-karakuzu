@@ -1,15 +1,13 @@
 ### Hi there 👋
 
 
-**Yemre-karakuzu/Yemre-karakuzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi I am Yunus Emre Karakuzu 👋
 
 - 🔭 I’m currently working on I’m currently working on web apps with Vue.Js at and Javascript Digitastic.Plus
 - 🌱 I’m currently learning Vanilla JavaScript.
 - 👯 I’m looking to collaborate on Vue.js
 - 💬 Ask me about anything
-- 📫 How to reach me: [Linkedin] (https://www.linkedin.com/in/yunus-emre-karakuzu-3523b61b3/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yunus-emre-karakuzu-3523b61b3/)
 - ⚡ Fun fact: I'm dealing with the data structure and algorithm
 
 
