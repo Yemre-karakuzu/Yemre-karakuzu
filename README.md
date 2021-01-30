@@ -8,7 +8,7 @@ Hi I am Yunus Emre Karakuzu 👋
 - 👯 I’m looking to collaborate on Vue.js
 - 💬 Ask me about anything
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yunus-emre-karakuzu-3523b61b3/)
-- ⚡ Fun fact: I'm dealing with the data structure and algorithm
+- ⚡ Fun fact: Playing the guitar and taking pictures
 
 
 
