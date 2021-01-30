@@ -36,4 +36,4 @@ Hi I am Yunus Emre Karakuzu 👋
 
 ---
 ![](https://komarev.com/ghpvc/?username=Yemre-karakuzu&color=blue&label=Profile+Views)
-[![GitHub Yemre-karakuzu](https://img.shields.io/github/followers/Yemre-karakuzu?label=follow&style=social)](https://github.com/mrtdmrmrt)
+[![GitHub Yemre-karakuzu](https://img.shields.io/github/followers/Yemre-karakuzu?label=follow&style=social)](https://github.com/Yemre-karakuzu)
