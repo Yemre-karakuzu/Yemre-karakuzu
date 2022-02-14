@@ -3,7 +3,7 @@
 
 Hi I am Yunus Emre Karakuzu 👋
 
-- 🔭 I’m currently working on I’m currently working on web apps with Vue.Js at and Javascript Digitastic.Plus
+- 🔭 I’m currently working on  web apps with Vue.Js at and Javascript.
 - 🌱 I’m currently learning Vanilla JavaScript.
 - 👯 I’m looking to collaborate on Vue.js
 - 💬 Ask me about anything
